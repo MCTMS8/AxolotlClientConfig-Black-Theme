@@ -1,2 +1,8 @@
 # AxolotlClientConfig Black Theme
-This provide a theme for [AxolotlClient config](https://codeberg.org/AxolotlClient/AxolotlClient-config). Made for AxolotlClient. This provide a **black** theme with white text
+This is a black theme for [AxolotlClient](https://modrinth.com/mod/axolotlclient ), it also works with [AxolotlClient config](https://codeberg.org/AxolotlClient/AxolotlClient-config). 
+
+- Black backgrounds
+- White texts and switch
+- Gray selected box
+
+If you have a bug or a suggestion, open an issue on the Github repo.
