@@ -1,2 +1,2 @@
 # AxolotlClientConfig-Black-Theme
-A simple resource pack to change the AxolotlClientConfig theme to a black theme.
+This provide a theme for [AxolotlClient config](https://codeberg.org/AxolotlClient/AxolotlClient-config). Made for AxolotlClient. This provide a **black** theme with white text
