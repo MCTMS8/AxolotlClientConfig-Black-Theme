@@ -1,6 +1,6 @@
 # AxolotlClientConfig Black Theme
 
-This is a black theme for [AxolotlClient](https://modrinth.com/mod/axolotlclient ), it also works with [AxolotlClient config](https://codeberg.org/AxolotlClient/AxolotlClient-config), however this is only for rounded style. 
+This is a black theme for [AxolotlClient](https://modrinth.com/mod/axolotlclient ), it also works with [AxolotlClient config](https://codeberg.org/AxolotlClient/AxolotlClient-config), however this is only for rounded style in the two mods.
 
 - Black backgrounds
 - White texts and switch
